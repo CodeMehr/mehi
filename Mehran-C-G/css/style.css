@@ -1,0 +1,26 @@
+body {
+    /* background-image: url(../img/Frame\ 58.jpg); */
+    background-color: #8dfee4;
+    text-align: center;
+    font-family: Arial, sans-serif;
+  }
+  h1 {
+    color: #ff0000;
+    font-size: 110px;
+  }
+  #message {
+    margin-top: 20px;
+    font-weight: bold;
+    font-size: 30px;
+  }
+  #guess
+  {
+    width: 250px;
+    height: 40px;
+    border-radius: 15px;
+    border: none;
+    background-color: pink;
+  }
+#guess:hover{
+    background-color: antiquewhite;
+}
